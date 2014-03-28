@@ -21,6 +21,8 @@ def main(global_config, **settings):
     config.add_route('rules', '/rules')
     config.add_route('board', '/board')
     config.add_route('2013draft', '/2013draft')
+    config.add_route('teams', '/teams')
+    config.add_route('history', '/history')
 
     config.scan()
     return config.make_wsgi_app()

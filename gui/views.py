@@ -1,5 +1,7 @@
 from pyramid.response import Response
 from pyramid.view import view_config
+from scripts.teams import *
+from scripts.history import *
 
 from sqlalchemy.exc import DBAPIError
 
@@ -15,7 +17,10 @@ header = """
             <a class="brand" href="#">VP Love Stains</a>
             <ul class="nav">
               <li><a href="/">Home</a></li>
+              <li><a href="http://fantasy.nfl.com/league/744960">NFL.com League</a></li>
               <li><a href="rules">Rules</a></li>
+              <li><a href="teams">Current Rosters</a></li>
+              <li><a href="history">History</a></li>
               <li><a href="board">2014 Draft Board</a></li>
               <li><a href="2013draft">2013 Draft Board</a></li>
             </ul>
@@ -46,6 +51,19 @@ def board_view(request):
 def previous_draft_view(request):
 
     return {'header':header}
+
+@view_config(route_name='teams', renderer='templates/teams.mako')
+def teams_view(request):
+    team_links = create_team_table()
+
+    return {'header':header,'team_links':team_links}
+
+@view_config(route_name='history', renderer='templates/history.mako')
+def history_view(request):
+    history = create_history()
+
+    return {'header':header,'history':history}
+
 
 conn_err_msg = """\
 Pyramid is having a problem using your SQL database.  The problem
