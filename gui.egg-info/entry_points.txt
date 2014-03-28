@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = gui:main
+      [console_scripts]
+      initialize_gui_db = gui.scripts.initializedb:main
+      
