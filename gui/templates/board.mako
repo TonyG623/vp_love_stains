@@ -53,7 +53,7 @@
             <td>Mike</td>
             <td>Jake</td>
             <td>Tom</td>
-            <td>Chris via Tim</td>
+            <td>Tim</td>
             <td>Peter</td>
             <td>Tony</td>
        </tr>
