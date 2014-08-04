@@ -31,7 +31,7 @@
               <td>1</td>
             <td>Tony</td>
             <td>Peter</td>
-            <td>Chris via TimTim</td>
+            <td>Chris via Tim</td>
             <td>Tom</td>
             <td>Jake</td>
             <td>Mike</td>
@@ -53,7 +53,7 @@
             <td>Mike</td>
             <td>Jake</td>
             <td>Tom</td>
-            <td>Chris via TimTim</td>
+            <td>Chris via Tim</td>
             <td>Peter</td>
             <td>Tony</td>
        </tr>

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="eb70755c-9c32-4238-885e-f7b159ba5090" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gui/templates/board.mako" afterPath="$PROJECT_DIR$/gui/templates/board.mako" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="vp_love_stains.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="board.mako" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gui/templates/board.mako">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="151" column="25" selection-start="4068" selection-end="4068" vertical-scroll-proportion="0.019296255" vertical-offset="2550" max-vertical-offset="4726">
+            <state line="55" column="26" selection-start="1616" selection-end="1616" vertical-scroll-proportion="0.88422245" vertical-offset="156" max-vertical-offset="4726">
               <folding />
             </state>
           </provider>
@@ -211,7 +210,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gui/templates/board.mako">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="151" column="25" selection-start="4068" selection-end="4068" vertical-scroll-proportion="0.019296255" vertical-offset="2550" max-vertical-offset="4726">
+        <state line="55" column="26" selection-start="1616" selection-end="1616" vertical-scroll-proportion="0.88422245" vertical-offset="156" max-vertical-offset="4726">
           <folding />
         </state>
       </provider>
