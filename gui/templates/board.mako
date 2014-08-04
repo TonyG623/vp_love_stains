@@ -14,9 +14,9 @@
        <table border ="1" cellpadding ="20">
        <tr>
               <td>0</td>
-            <td>Charlie</td>
+            <td>Charlie - Arian Foster</td>
             <td>Phil</td>
-            <td>Sean</td>
+            <td>Sean - Matt Forte</td>
             <td>Chris</td>
             <td>Madelyn</td>
             <td>Chuck</td>
@@ -31,7 +31,7 @@
               <td>1</td>
             <td>Tony</td>
             <td>Peter</td>
-            <td>Tim</td>
+            <td>Chris via TimTim</td>
             <td>Tom</td>
             <td>Jake</td>
             <td>Mike</td>
@@ -53,7 +53,7 @@
             <td>Mike</td>
             <td>Jake</td>
             <td>Tom</td>
-            <td>Tim</td>
+            <td>Chris via TimTim</td>
             <td>Peter</td>
             <td>Tony</td>
        </tr>
@@ -98,7 +98,7 @@
             <td>Chuck</td>
             <td>Madelyn</td>
             <td>Chris</td>
-            <td>Sean</td>
+            <td>Sean - Leveon Bell</td>
             <td>Phil</td>
             <td>Charlie</td>
        </tr>
@@ -136,7 +136,7 @@
               <td>8</td>
             <td>Charlie</td>
             <td>Phil</td>
-            <td>Sean</td>
+            <td>Sean - Julius Thomas</td>
             <td>Chris</td>
             <td>Madelyn</td>
             <td>Chuck</td>
@@ -220,11 +220,11 @@
             <td>Chris</td>
             <td>Sean</td>
             <td>Phil</td>
-            <td>Charlie</td>
+            <td>Charlie - Andre Ellington</td>
        </tr>
        <tr>
               <td>14</td>
-            <td>Charlie</td>
+            <td>Charlie - Keenan Allen</td>
             <td>Phil</td>
             <td>Sean</td>
             <td>Chris</td>
